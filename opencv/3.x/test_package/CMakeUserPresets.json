@@ -1,9 +1,0 @@
-{
-    "version": 4,
-    "vendor": {
-        "conan": {}
-    },
-    "include": [
-        "D:\\conan\\from_conan_center\\opencv\\3.x\\test_package\\build\\generators\\CMakePresets.json"
-    ]
-}
