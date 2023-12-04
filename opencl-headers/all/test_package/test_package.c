@@ -15,6 +15,7 @@ int main() {
         puts("Wrong OpenCL header version");
         return EXIT_FAILURE;
     }
+    puts("OpenCL ok");
 
     return EXIT_SUCCESS;
 }
